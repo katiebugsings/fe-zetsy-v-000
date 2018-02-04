@@ -39,7 +39,7 @@ a > img {
 }
 
 a:hover > img {
-	border: green;
+	border-color: green;
 }
 
 #press img:hover {
